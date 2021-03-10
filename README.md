@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [Here](github.com/Soylol)
-
 - 📝 My Website [https://seggs.cc](https://seggs.cc)
 
 <p align="left">
