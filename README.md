@@ -9,9 +9,6 @@
 
 - 📝 My Website [https://seggs.cc](https://seggs.cc)
 
-- 📫 How to reach me **https://discordhub.com/profile/773319694304018432**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/soylol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="soylol" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soy x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="soy x" height="30" width="40" /></a>
