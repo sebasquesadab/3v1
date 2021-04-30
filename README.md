@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soy</h1>
 <h3 align="center">Human Who Likes Python</h3>
 
-- 🔭 I’m currently working on [WebSpam](https://github.com/Soylol/webspam)
-
 - 🌱 I’m currently learning **Rust**
 
 - 📝 My Website [https://seggs.cc](https://seggs.cc)
