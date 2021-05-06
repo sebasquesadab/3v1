@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 My Website [https://seggs.cc](https://seggs.cc)
 
 <p align="left">
 <a href="https://dev.to/soylol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="3v1" height="30" width="40" /></a>
