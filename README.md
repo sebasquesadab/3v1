@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soy</h1>
 <h3 align="center">Human Who Likes Python</h3>
 
-- 🌱 I’m currently learning **Rust**
-
-
 <p align="left">
 <a href="https://dev.to/soylol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="3v1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soy x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="soy x" height="30" width="40" /></a>
